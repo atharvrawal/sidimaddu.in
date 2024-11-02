@@ -1,0 +1,7 @@
+# -To get files
+#     git pull shreyas (specify which branch)
+# -To send Files
+#     git add .
+#     git commit -a -m "commit message"
+#     git branch -M Shreyas
+#     git push -u shreyas Shreyas
